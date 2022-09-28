@@ -1,0 +1,17 @@
+.titles {
+  font-weight: bold;
+}
+table {
+  border-spacing: 0;
+  -webkit-border-horizontal-spacing: 0;
+  -webkit-border-vertical-spacing: 0;
+}
+
+tr.titles > td {
+  border-bottom: 3px solid #ddd;
+}
+td {
+  width: 250px;
+  border-bottom: 1px solid #ddd;
+  line-height: 24px;
+}
