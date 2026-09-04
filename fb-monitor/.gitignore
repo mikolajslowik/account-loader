@@ -1,0 +1,9 @@
+.env
+fb_state.json
+seen.json
+screenshots/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log

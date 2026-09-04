@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# fb-monitor secrets / runtime
+fb-monitor/.env
+fb-monitor/fb_state.json
+fb-monitor/seen.json
+fb-monitor/screenshots/
+fb-monitor/.venv/
+fb-monitor/venv/
